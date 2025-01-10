@@ -304,18 +304,10 @@
     "alreadySubscribed": "This server already has **Gold** because of <@{buyerId}>.\n-# The current billing period ends on <t:{nextPaymentTS}> (<t:{nextPaymentTS}:R>).",
     "subscriptionInfo": "- Subscribed since: <t:{createdTS}> (<t:{createdTS}:R>)\n- Last Payment: <t:{lastPaymentTS}> (<t:{lastPaymentTS}:R>)\n- Next Payment: <t:{nextPaymentTS}> (<t:{nextPaymentTS}:R>)\n- Subscription ID: `{subscriptionId}`\n- Customer ID: `{customerId}`",
     "subscriptionCancelledInfo": "Subscription canceled.\nPremium expires at <t:{expiresAt}> (<t:{expiresAt}:R>).",
-    "subscriptionCanceled": [
-      "Subscription successfully canceled.",
-      "-# _The server will keep the benefits until the end of the billing period._",
-      "### You can reactivate Premium at any time by purchasing **Gold** again for this server as soon as the current billing period has expired."
-    ],
+    "subscriptionCanceled": "Subscription successfully canceled.\n-# _The server will keep the benefits until the end of the billing period._\n### You can reactivate Premium at any time by purchasing **Gold** again for this server as soon as the current billing period has expired.",
     "checkoutCreated": "Checkout created",
     "stillEligibleForRefund": "You're still eligible for a refund.",
-    "checkoutInstructions": [
-      "Please complete the checkout within 15 minutes - otherwise, the session will expire.",
-      "Please **do not** share this link with anyone else as it is unique to you.",
-      "-# This checkout session holds your Discord data - if anyone else completes the checkout with this link, it will look like you bought the subscription."
-    ],
+    "checkoutInstructions": "Please complete the checkout within 15 minutes - otherwise, the session will expire.\nPlease **do not** share this link with anyone else as it is unique to you.\n-# This checkout session holds your Discord data - if anyone else completes the checkout with this link, it will look like you bought the subscription.",
     "legalNotice": "Terms and Conditions",
     "checkoutLegalNotice": [
       "By completing the checkout, you agree to the [Terms of Service](https://supportmail.dev/legal/terms) and the [Privacy Policy](https://supportmail.dev/legal/privacy).",
